@@ -13,7 +13,8 @@ The script takes the list of comments to leave from the comments.txt file (comme
 You can set the number of comments the script should write and the time interval between them
 
 
-
+# Tutorial
+add client_secrets.json and token.json to main script folder (you can get it on console.cloud.google.com)
 ## Authors
 
 - [@KubaS](https://www.github.com/KubaSX23)
