@@ -20,8 +20,9 @@ You can set the number of comments the script should write and the time interval
 
 
 
-![Logo](https://raw.githubusercontent.com/KubaSX23/youtube-comment-bot/refs/heads/main/icon.png)
+## Badges
 
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
-![Logo](https://raw.githubusercontent.com/KubaSX23/youtube-comment-bot/refs/heads/main/icon.png)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
